@@ -1,0 +1,11 @@
+Checklist
+
+ Load Sleep_health_and_lifestyle_dataset.csv and extract Sleep Duration.
+ Compute mean, median, mode(s).
+ Report results with count and notes.
+Results (computed from Sleep Duration column)
+
+Count (valid values): 374
+Mean: 7.132085561497326 hours
+Median: 7.2 hours
+Mode: 7.2 hours
